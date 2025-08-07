@@ -20,7 +20,6 @@
 ![VBScript](https://img.shields.io/badge/VBScript-800000?style=flat&logo=windows&logoColor=white)
 ![Cobol](https://img.shields.io/badge/COBOL-4454A4?style=flat&logo=ibm&logoColor=white)
 ![JCL](https://img.shields.io/badge/JCL-0080FF?style=flat&logoColor=white)
-
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
