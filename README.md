@@ -7,7 +7,7 @@
 
 ---
 
-### 💻 Linguagens, IDEs e Ferramentas de Suporte
+#### 💻 Linguagens, IDEs e Ferramentas de Suporte
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -27,7 +27,7 @@
 
 ---
 
-### 🧪 Frameworks e Testes
+#### 🧪 Frameworks e Testes
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-grey?style=flat&logo=robotframework&logoColor=white)
@@ -53,7 +53,7 @@
 
 ---
 
-### 🗃️ Banco de Dados
+#### 🗃️ Banco de Dados
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -67,7 +67,7 @@
 
 ---
 
-### ☁️ Cloud/DevOps e Observabilidade
+#### ☁️ Cloud/DevOps e Observabilidade
 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
