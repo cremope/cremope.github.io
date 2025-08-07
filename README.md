@@ -1,5 +1,3 @@
-<h1 align="center">Cremonez</h1>
-
 <p align="center">Especialista em testes | QA Senior | Automação de testes</p>
 
 <p align="center">
