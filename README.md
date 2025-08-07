@@ -33,9 +33,6 @@
 ![Allure](https://img.shields.io/badge/Allure_Report-1F1F1F?style=flat)
 ![Extent Reports](https://img.shields.io/badge/Extent_Reports-008ECC?style=flat&logo=html5&logoColor=white)
 ![ReportPortal](https://img.shields.io/badge/ReportPortal-FF6A00?style=flat&logo=reportportal&logoColor=white)
-
-
-
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=java&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF8C00?style=flat)
 ![NUnit](https://img.shields.io/badge/NUnit-3A4B7D?style=flat)
