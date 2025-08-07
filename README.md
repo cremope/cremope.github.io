@@ -1,8 +1,12 @@
 <p align="center">Especialista em testes | QA Senior | Automação de testes</p>
 
 <p align="center">
-  <a href="https://github.com/cremope"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:novoa.lopez@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/cremope">
+    <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" style="height:18px;" />
+  </a>
+  <a href="mailto:novoa.lopez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" style="height:18px;" />
+  </a>
 </p>
 
 ---
