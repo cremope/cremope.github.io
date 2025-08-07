@@ -7,7 +7,7 @@
 
 ---
 
-### 💻 Linguagens de Programação
+### 💻 Linguagens, IDEs e Ferramentas de Suporte
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -16,6 +16,14 @@
 ![VBScript](https://img.shields.io/badge/VBScript-800000?style=flat&logo=windows&logoColor=white)
 ![Cobol](https://img.shields.io/badge/COBOL-4454A4?style=flat&logo=ibm&logoColor=white)
 ![JCL](https://img.shields.io/badge/JCL-0080FF?style=flat&logoColor=white)
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Zephyr-0052CC?style=flat&logo=jira&logoColor=white)
+![DevConsole](https://img.shields.io/badge/DevConsole-0A0A0A?style=flat)
+![AutoIt](https://img.shields.io/badge/AutoIt-1C3552?style=flat)
 
 ---
 
@@ -59,7 +67,7 @@
 
 ---
 
-### ☁️ Cloud e DevOps e Observabilidade
+### ☁️ Cloud/DevOps e Observabilidade
 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
@@ -71,22 +79,11 @@
 ![Graylog](https://img.shields.io/badge/Graylog-8A1538?style=flat)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Offset](https://img.shields.io/badge/Offset-4B0082?style=flat)
 ![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-007FFF?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![AKS](https://img.shields.io/badge/AKS-A3C1DA?style=flat&logo=azuredevops&logoColor=white)
 ![Lens](https://img.shields.io/badge/Lens-2E3440?style=flat)
 
----
-
-### 🛠️ IDEs e Ferramentas de Suporte
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-Zephyr-0052CC?style=flat&logo=jira&logoColor=white)
-![Offset](https://img.shields.io/badge/Offset-4B0082?style=flat)
-![DevConsole](https://img.shields.io/badge/DevConsole-0A0A0A?style=flat)
-![AutoIt](https://img.shields.io/badge/AutoIt-1C3552?style=flat)
 </p>
 
